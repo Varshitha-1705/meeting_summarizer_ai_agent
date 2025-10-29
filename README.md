@@ -18,15 +18,14 @@ It supports both text and audio inputs (via speech-to-text).
 
 ## ✨ Features
 - Summarizes long meetings into short points  
-- Extracts action items and decisions  
-- Converts audio to text (optional)  
+- Extracts action items and decisions    
 - Custom summary styles (bullet, paragraph)
 
 
 
 ## ⚙️ How to Run
 1. Clone the repo  
-   git clone https://github.com/your-username/meeting-summarizer-ai-agent.git
+   git clone https://github.com/Varshitha-1705/meeting-summarizer-ai-agent.git
 
 2. Install dependencies
    pip install -r requirements.txt
